@@ -12,3 +12,23 @@ _mca_
 [sacet](http://www.sacet.ac.in)
 <u> this is program</u>
 [appsc] (https://psc.ap.gov.in/)
+__
+#numb | name | job
+# _ _ _ | _ _ _ | _ _ _ |
+# 1 | chaithu | doing
+# 2 | pardhu | bildur
+
+
+:monkey:
+:satisfied:
+:confused:
+<hr>
+:monkey:
+:satisfied:
+:confused:
+
+how to  use clone in github
+- [X] git clone
+- [ ] git remote
+- [ ] git inti
+- [ ] git git
